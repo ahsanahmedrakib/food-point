@@ -12,7 +12,7 @@ body{
 .top-left{
     width: 40%;
     padding-left: 5%;
-    margin-top: 18%;
+    margin-top: 100px;
 }
 .top-right{
     width: 55%;
@@ -43,7 +43,7 @@ body{
     font-family: Poppins;
 }
 .top-right img{
-    margin-top: 18%;
+    margin-top: 70px;
     width: 100%;
 }
 /* top end*/
